@@ -7,3 +7,4 @@ Running into the walls will cause an even greater delay.
 Try to get powerups (U).  The powerup you receive will be 
 based upon your current place in the standings.
 Press "z" to use your powerups.
+Mark made a small edit
